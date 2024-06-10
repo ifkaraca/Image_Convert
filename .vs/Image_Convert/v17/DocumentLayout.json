@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ifkar\\Desktop\\uygulamalar\\Image_Convert\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9CDD61-8A6B-4595-971E-1AAD15063D2D}|Image_Convert\\Image_Convert.csproj|c:\\users\\ifkar\\desktop\\uygulamalar\\image_convert\\image_convert\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C9CDD61-8A6B-4595-971E-1AAD15063D2D}|Image_Convert\\Image_Convert.csproj|solutionrelative:image_convert\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9CDD61-8A6B-4595-971E-1AAD15063D2D}|Image_Convert\\Image_Convert.csproj|c:\\users\\ifkar\\desktop\\uygulamalar\\image_convert\\image_convert\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9CDD61-8A6B-4595-971E-1AAD15063D2D}|Image_Convert\\Image_Convert.csproj|solutionrelative:image_convert\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ifkar\\Desktop\\uygulamalar\\Image_Convert\\Image_Convert\\Form1.cs",
+              "RelativeDocumentMoniker": "Image_Convert\\Form1.cs",
+              "ToolTip": "C:\\Users\\ifkar\\Desktop\\uygulamalar\\Image_Convert\\Image_Convert\\Form1.cs",
+              "RelativeToolTip": "Image_Convert\\Form1.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAMwLoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T00:09:11.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ifkar\\Desktop\\uygulamalar\\Image_Convert\\Image_Convert\\Form1.cs",
+              "RelativeDocumentMoniker": "Image_Convert\\Form1.cs",
+              "ToolTip": "C:\\Users\\ifkar\\Desktop\\uygulamalar\\Image_Convert\\Image_Convert\\Form1.cs [Design]",
+              "RelativeToolTip": "Image_Convert\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T00:03:19.072Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

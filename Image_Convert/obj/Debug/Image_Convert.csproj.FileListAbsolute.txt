@@ -1,0 +1,10 @@
+C:\Users\ifkar\Desktop\uygulamalar\Image_Convert\Image_Convert\bin\Debug\Image_Convert.exe.config
+C:\Users\ifkar\Desktop\uygulamalar\Image_Convert\Image_Convert\bin\Debug\Image_Convert.exe
+C:\Users\ifkar\Desktop\uygulamalar\Image_Convert\Image_Convert\bin\Debug\Image_Convert.pdb
+C:\Users\ifkar\Desktop\uygulamalar\Image_Convert\Image_Convert\obj\Debug\Image_Convert.csproj.AssemblyReference.cache
+C:\Users\ifkar\Desktop\uygulamalar\Image_Convert\Image_Convert\obj\Debug\Image_Convert.Form1.resources
+C:\Users\ifkar\Desktop\uygulamalar\Image_Convert\Image_Convert\obj\Debug\Image_Convert.Properties.Resources.resources
+C:\Users\ifkar\Desktop\uygulamalar\Image_Convert\Image_Convert\obj\Debug\Image_Convert.csproj.GenerateResource.cache
+C:\Users\ifkar\Desktop\uygulamalar\Image_Convert\Image_Convert\obj\Debug\Image_Convert.csproj.CoreCompileInputs.cache
+C:\Users\ifkar\Desktop\uygulamalar\Image_Convert\Image_Convert\obj\Debug\Image_Convert.exe
+C:\Users\ifkar\Desktop\uygulamalar\Image_Convert\Image_Convert\obj\Debug\Image_Convert.pdb
